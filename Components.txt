@@ -1,0 +1,6 @@
+Arduino Uno
+Gearmotors
+HC-So4(Ultrasonic sensor)
+Servo motor
+Car structure(Wheels...etc)
+H-bridge && Motor driver (L293D)
